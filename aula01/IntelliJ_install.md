@@ -1,7 +1,14 @@
 # Instalação do IntelliJ
 Ao longo do curso, vamos utilizar a IDE IntelliJ IDEA, da empresa JetBrains, muito conhecida por desenvolver IDE's e por ser a empresa que criou e mantém uma das linguagens filhas do Java, o Kotlin.
 
-Para começar, precisamos entrar na página principal do IntelliJ, onde vamos clicar no botão "Baixar":
+Para começar, precisamos entrar na página principal do IntelliJ, onde vamos escolher o sistema operacional e depois clicar no botão "Baixar": 
+
+<img width="947" alt="Screenshot_2" src="https://github.com/SkiereszDiego/Java-Caldeira/assets/46655332/2bfc4a6e-afdc-4e04-a729-e00ee89e7dcf">
+
+- Observação - Selecione a versão Community para baixar 
+
+<img width="941" alt="Screenshot_3" src="https://github.com/SkiereszDiego/Java-Caldeira/assets/46655332/55cfbce7-be82-479c-addc-e889b5ff88fa">
+
 - Após clicar, seremos levados à página de downloads da ferramenta, que apresenta opções para os sistemas Windows, Linux e MacOS em um menu que deve ser clicado baseado em seu sistema operacional.
 - Logo abaixo do menu vemos duas opções de download, que se tratam das duas versões da IDE: a edição Ultimate e Community.
   - A versão Ultimate apresenta mais recursos, como suporte a mais linguagens e gerenciamento de banco de dados embutido, no entanto é paga;
