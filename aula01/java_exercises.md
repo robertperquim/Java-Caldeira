@@ -43,6 +43,21 @@
 ### Exercicio 08
 - Criar um algoritmo para definir as filas prioritárias. Seu programa deve exibir um menu de opções, perguntando se a pessoa é Gestante, Idosa, Deficiente ou Nenhuma das alternativas. Se ela for Deficiente, Idosa ou Gestante, tem direito a fila prioritária. Se não, não tem direito."
 
+### Exercicio 09
+- Crie um programa em Java que peça ao usuário para inserir seu ano de nascimento e, em seguida, calcule e exiba a idade.
+
+### Exercicio 10
+- Crie um programa em Java que peça ao usuário para inserir uma temperatura em graus Celsius e, em seguida, converta essa temperatura em graus Fahrenheit usando a fórmula: Fahrenheit = (Celsius * 9/5) + 32. Exiba o resultado na tela.
+
+### Exercicio 11
+- Peça ao usuário que digite uma palavra ou frase e conte quantas vogais (a, e, i, o, u) estão presentes. Exiba o número de vogais na tela.
+
+### Exercicio 12
+- Crie um programa que converta uma quantia em dólares para outra moeda, como euros ou reais. Peça ao usuário para inserir a quantia em dólares e a taxa de câmbio atual. Em seguida, calcule e exiba o valor convertido.
+
+### Exercicio 13
+- Escreva um programa que calcule o fatorial de um número inteiro não negativo fornecido pelo usuário. O fatorial de um número N é o produto de todos os inteiros de 1 até N.
+
 ### Respostas:  
 
 <details>
