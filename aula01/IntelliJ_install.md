@@ -23,7 +23,4 @@ Após arrastar, vai ser iniciado o processo de cópia de arquivos e a IDE será 
 
 E prontinho, o IntelliJ já está instalado e estamos prontos para estudar Java!
 
-### Artigo para quem está começando
-> Nesse artigo, você vai encontrar algumas dicas para quem está [começando a utilizar o IntelliJ](https://www.alura.com.br/artigos/dicas-e-truques-de-intellij-idea-para-quem-esta-comecando)
-
 ### Divirta-se!!
