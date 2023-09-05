@@ -7,9 +7,7 @@
 - Crie um repositório no seu Github para guardar esses exercícios - será util para todo o curso;
 - Você pode criar um projeto para cada aplicação abaixo, facilitando a organização;
 - Um ideia é criar uma pasta desses exercícios, dividindo por aulas, nesse caso aula00/ e colocar os projetos dentro dela;
-- Para o nome dos projetos, sugerimos que siga um padrão parecido com esse:
-  - aula00-exercicio1;
-  - aula00-exercicio2.
+- Sempre adicione um arquivo README.md para seus projetos, é uma ótima pratica para seu github;
 - Mas não é uma regra! Você pode organizar o seu repositório da maneira que quiser!
 
 ## Em suas marcas, bora! 
