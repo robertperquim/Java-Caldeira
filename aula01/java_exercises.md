@@ -39,7 +39,7 @@
 - Criar para uma empresa de consórcio. No teste inicial, você deve perguntar para o usuário a idade dele e o seu salário. A pessoa só pode comprar um automóvel se for de maior e ganhar mais de R$ 2.000,00.
 
 ### Exercicio 08
-- Criar um algoritmo para definir as filas prioritárias. Seu programa deve exibir um menu de opções, perguntando se a pessoa é Gestante, Idosa, Deficiente ou Nenhuma das alternativas. Se ela for Deficiente, Idosa ou Gestante, tem direito a fila prioritária. Se não, não tem direito."
+- Criar um algoritmo para definir as filas prioritárias. Seu programa deve exibir um menu de opções, perguntando se a pessoa é Gestante, Idosa, PCD ou Nenhuma das alternativas. Se ela for PCD, Idosa ou Gestante, tem direito a fila prioritária. Se não, não tem direito."
 
 ### Exercicio 09
 - Crie um programa em Java que peça ao usuário para inserir seu ano de nascimento e, em seguida, calcule e exiba a idade.
