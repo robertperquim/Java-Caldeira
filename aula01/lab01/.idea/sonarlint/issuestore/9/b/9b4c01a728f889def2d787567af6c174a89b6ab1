@@ -1,0 +1,14 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8è”Ûæ§1
+k
+java:S1659"IDeclare "secondNumber" and all following declarations on a separate line.(öÃš¾øÿÿÿÿ8è”Ûæ§1
+F	java:S106"+Replace this use of System.out by a logger.(ö¼×98õ¯¿å§1
+L	java:S106"+Replace this use of System.out by a logger.(Ã“¦ñüÿÿÿÿ8õ¯¿å§1
+L	java:S106"+Replace this use of System.out by a logger.(âƒ¥ìüÿÿÿÿ8™èÄå§1
+L	java:S106="+Replace this use of System.out by a logger.(§¯ü¼ıÿÿÿÿ8™èÄå§1
+L	java:S106>"+Replace this use of System.out by a logger.(¬õíëùÿÿÿÿ8è”Ûæ§1
+L	java:S106?"+Replace this use of System.out by a logger.(Èüçìşÿÿÿÿ8è”Ûæ§1
+G	java:S106E"+Replace this use of System.out by a logger.(îëæŸ8è”Ûæ§1
+G	java:S106F"+Replace this use of System.out by a logger.(Ê±¢º8è”Ûæ§1
+G	java:S106G"+Replace this use of System.out by a logger.(âÓ²8è”Ûæ§1
