@@ -1,18 +1,10 @@
 # Exercicios de Java: Revisão conceitos gerais e aplicando tipos do Java
 
 ### Não se esqueçam de salvarem esses códigos no repositório que criaram na aula passada.
+### 👉 Exercicios 02 e 03 foram removidos por conter enunciados repetidos.
 
 ### Exercicio 01
 - Crie um programa que determine e escreva os números primos compreendidos entre um intervalo fornecido pelo usuário.
-
-
-### Exercicio 02
-- Criar para uma empresa de consórcio. No teste inicial, você deve perguntar para o usuário a idade dele e o seu salário. A pessoa só pode comprar um automóvel se for de maior e ganhar mais de R$ 2.000,00.
-  
-
-### Exercicio 03
-- Criar um algoritmo para definir as filas prioritárias. Seu programa deve exibir um menu de opções, perguntando se a pessoa é Gestante, Idosa, Deficiente ou Nenhuma das alternativas. Se ela for Deficiente, Idosa ou Gestante, tem direito a fila prioritária. Se não, não tem direito."
-  
 
 ### Exercicio 04
 - Implemente uma calculadora, onde o usuário deve entrar com 2 números e escolher a operação que deseja realizar. Durante a execução o programa deve perguntar ao usuário se ele deseja continuar, se ele não quiser, deve digitar ‘n’ para o programa encerrar.
