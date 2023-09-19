@@ -21,7 +21,7 @@ Métodos abstratos:
 
 ### Exercício 02: Figuras geométricas
 
-2.1 Crie uma classe abstrata chamada FormaGeometrica com um método abstrato calcularArea() -> Essa classe precisa ter, no minimo 2 atributos - cabem a vocês descobrirem :)
+2.1 Crie uma classe abstrata chamada FormaGeometrica com um método abstrato calcularArea();
 
 2.2 Crie três classes concretas que herdem de FormaGeometrica: Retangulo, Circulo, Triangulo, Quadrado e Losango. Implemente o método calcularArea() em cada uma dessas classes para calcular a área da forma específica.
 
