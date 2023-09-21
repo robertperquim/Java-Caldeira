@@ -21,7 +21,7 @@ Métodos abstratos:
 
 ### Exercício 02: Figuras geométricas
 
-2.1 Crie uma classe abstrata chamada FormaGeometrica com um método abstrato calcularArea() -> Essa classe precisa ter, no minimo 2 atributos - cabem a vocês descobrirem :)
+2.1 Crie uma classe abstrata chamada FormaGeometrica com um método abstrato calcularArea();
 
 2.2 Crie três classes concretas que herdem de FormaGeometrica: Retangulo, Circulo, Triangulo, Quadrado e Losango. Implemente o método calcularArea() em cada uma dessas classes para calcular a área da forma específica.
 
@@ -29,7 +29,7 @@ Métodos abstratos:
 
 2.4 Use um loop para calcular e exibir a área de cada forma geométrica na lista, mesmo que sejam tipos diferentes, usando o polimorfismo.
 
-### Exercício 03: Sistema de Tributação para Contas e Bens Financeiros
+### Exercício 03: Sistema de Tributação para Contas e Bens Financeiros (desafio: Interface + Herança + Polimorfismo)
 
 Nosso banco está empenhado em aplicar tributações aos bens financeiros de nossos clientes, e para alcançar esse objetivo, estamos criando um sistema que gerenciará essa tarefa. Aqui estão as etapas do exercício:
 
