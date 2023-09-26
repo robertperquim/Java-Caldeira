@@ -1,0 +1,37 @@
+
+L	java:S1068"+Replace this use of System.out by a logger.(ïúüÃùÿÿÿÿ8—‚Œì¬1
+L	java:S106:"+Replace this use of System.out by a logger.(¹®˜Ûùÿÿÿÿ8—‚Œì¬1
+L	java:S106G"+Replace this use of System.out by a logger.(„ĞİÖüÿÿÿÿ8—‚Œì¬1
+G	java:S106I"+Replace this use of System.out by a logger.(ÒĞ²ø8˜‚Œì¬1
+G	java:S106U"+Replace this use of System.out by a logger.(õ†ï·8˜‚Œì¬1
+F	java:S106W"+Replace this use of System.out by a logger.(™éã+8˜‚Œì¬1
+L	java:S106h"+Replace this use of System.out by a logger.(¥»¥ºüÿÿÿÿ8™‚Œì¬1
+L	java:S106j"+Replace this use of System.out by a logger.(œâ”şÿÿÿÿ8š‚Œì¬1
+F	java:S106m"+Replace this use of System.out by a logger.(Ú½šd8š‚Œì¬1
+G	java:S106v"+Replace this use of System.out by a logger.(Úîî×8š‚Œì¬1
+G	java:S106}"+Replace this use of System.out by a logger.(ç¦òí8›‚Œì¬1
+H	java:S106„"+Replace this use of System.out by a logger.(Ù”ßí8›‚Œì¬1
+M	java:S106…"+Replace this use of System.out by a logger.(ÇÙ®şÿÿÿÿ8›‚Œì¬1
+M	java:S106†"+Replace this use of System.out by a logger.(¸À½øÿÿÿÿ8›‚Œì¬1
+H	java:S106‡"+Replace this use of System.out by a logger.(¢€úÄ8œ‚Œì¬1
+M	java:S106ˆ"+Replace this use of System.out by a logger.(×…÷úıÿÿÿÿ8œ‚Œì¬1
+H	java:S106“"+Replace this use of System.out by a logger.(šìÂ8œ‚Œì¬1
+H	java:S106•"+Replace this use of System.out by a logger.(Õ€”8œ‚Œì¬1
+M	java:S106¢"+Replace this use of System.out by a logger.(Â³İıÿÿÿÿ8‚Œì¬1
+H	java:S106¤"+Replace this use of System.out by a logger.(”ù»ù8‚Œì¬1
+M	java:S106±"+Replace this use of System.out by a logger.(Ù’‰¼ÿÿÿÿÿ8‚Œì¬1
+M	java:S106¶"+Replace this use of System.out by a logger.(øšğ’úÿÿÿÿ8‚Œì¬1
+M	java:S106Ã"+Replace this use of System.out by a logger.(¥Ëéÿúÿÿÿÿ8‚Œì¬1
+H	java:S106Å"+Replace this use of System.out by a logger.(³ìÕ‚8‚Œì¬1
+U
+java:S1854Î"7Remove this useless assignment to local variable "sdf".(ë‚íœ8‚Œì¬1
+F
+java:S1481Î"(Remove this unused "sdf" local variable.(ë‚íœ8Ÿ‚Œì¬1
+H	java:S106Õ"+Replace this use of System.out by a logger.(º‡¥Â8 ‚Œì¬1
+M	java:S106×"+Replace this use of System.out by a logger.(ŒÉßƒøÿÿÿÿ8 ‚Œì¬1
+H	java:S106Ù"+Replace this use of System.out by a logger.(‹‘©ç8 ‚Œì¬1
+`
+java:S6353å"=Use concise character class syntax '\\D' instead of '[^0-9]'.(©÷ã¢úÿÿÿÿ8¡‚Œì¬1
+M	java:S106‚"+Replace this use of System.out by a logger.(ˆŒ–Æúÿÿÿÿ8£‚Œì¬1
+R
+java:S1068"0Remove this unused "horarioAtual" private field.(Üš÷µûÿÿÿÿ8£‚Œì¬1

@@ -20,7 +20,7 @@ Implemente os seguintes métodos na classe:
 
 2. `deposito(double valor)`: Realiza um depósito na conta, atualizando o saldo.
 
-3. `pix(double valor)`: Realiza uma transferência PIX, verificando o saldo e o horário atual. Caso contrário, exibe uma mensagem de erro.
+3. `pix(double valor)`: Realiza uma transferência PIX. Caso contrário, exibe uma mensagem de erro.
 
 4. `transferencia(ContaBancaria destino, double valor)`: Realiza uma transferência para outra conta bancária, verificando se o horário atual está dentro do intervalo permitido (8hrs às 19hrs) e se o saldo é suficiente. Caso contrário, exibe uma mensagem de erro.
 

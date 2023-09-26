@@ -62,7 +62,7 @@ Beleza e quando a gente precisa do retorno? Por exemplo: se a gente quiser ver o
     
 ```
 
-Quando criamos um método em Java, sempre precisamos respeitar alguams regrinhas de sintaxe:
+Quando criamos um método em Java, sempre precisamos respeitar algumas regrinhas de sintaxe:
 
     1. Tem que dizer se é público (public), privado (private) ou algo no meio (protected);
     2. A gente fala se o método vai dar alguma coisa de volta (como um número por exemplo) ou não (ai usamos o "void");
@@ -93,7 +93,7 @@ Toda classe tem um construtor embutido nela e não possui parâmetros. Lembra co
         private String nome;
         private int idade;
         
-        // Construtor vázio (sem parâmetros)
+        // Construtor vazio (sem parâmetros)
         public  Pessoa() {
         }
 
