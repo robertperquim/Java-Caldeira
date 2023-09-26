@@ -34,12 +34,12 @@ public class ExemploHashSet {
 
         int total = nomes.size(); // Descobre o total de items
 
-        nomes.remove("Yoshi"); // Remove Luigi
+        nomes.remove("Yoshi"); // Remove Yoshi
         System.out.println(nomes); // Imprime todos os nomes
 
         // Verificando se um elemento está no HashSet
         boolean contemLuigi = nomes.contains("Luigi");
-        System.out.println("O conjunto contém Luigi? " + contemBob);
+        System.out.println("O conjunto contém Luigi? " + contemLuigi);
 
         //Outra forma de verificar se existe
        if (nomes.contains("Luigi")) { 
