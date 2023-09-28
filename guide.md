@@ -206,13 +206,15 @@ Lembre-se, amigo, a prática é a chave! Comece com projetos simples e vá avan�
 
 3. **W3Schools** - [W3Schools](https://www.w3schools.com)
    - W3Schools é um recurso popular para aprender tecnologias web, como HTML, CSS, JavaScript e muitos outros. Oferece tutoriais interativos e exemplos práticos.
+
+4. **GeeksforGeeks** - [GeeksforGeeks](https://www.geeksforgeeks.org)
+   - GeeksforGeeks é um site que oferece uma ampla variedade de tutoriais e recursos relacionados à ciência da computação e programação. É especialmente útil para preparação de entrevistas técnicas. 
   
 ### O que NÃO FAZER:
 
 - Metodologia Extreme Go Horses: https://gohorse.com.br/extreme-go-horse-xgh/
 
-4. **GeeksforGeeks** - [GeeksforGeeks](https://www.geeksforgeeks.org)
-   - GeeksforGeeks é um site que oferece uma ampla variedade de tutoriais e recursos relacionados à ciência da computação e programação. É especialmente útil para preparação de entrevistas técnicas.
+
 
 
 
