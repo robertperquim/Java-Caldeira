@@ -25,7 +25,7 @@ Basta usar as **[Issues](https://github.com/SkiereszDiego/Java-Caldeira/issues)*
 
 Calma aí, pequeno(a) Padawan!
 
-:point_right: Todo conteúdo está disponível **[aqui](material.md)**. :point_left:
+:point_right: Todo conteúdo está disponível **[AQUI](material.md)**. :point_left:
 
 Recomendamos fortemente que você acompanhe o material na sequência indicada e _faça os exercícios_.
 
