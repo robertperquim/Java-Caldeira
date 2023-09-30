@@ -152,6 +152,7 @@ Espero que estas adições esclareçam ainda mais as características e os cená
 - "LinkedHashMap" é semelhante a HashMap, todavia, internamente também armazena a ordem em que os elementos foram adicionados.
 
 
+
 **Stack** 📚🔄
 A classe Stack implementada no framework collection e estende o modelo de classe Vector e implementa a estrutura de dados Stack (Pilha é como uma pilha de coisas que você organiza e manipula seguindo a lógica do "last-in-first-out". Doido, né? 😉📚🔄 Imagine que você tem uma pilha de livros 📚, e sempre coloca o livro mais recente no topo. Agora, quando você pega um livro para ler, pega o que está no topo da pilha, certo? É exatamente assim que a classe Stack funciona!
 
@@ -207,3 +208,19 @@ public class ExemploStack  {
 }
 
 ```
+
+## HashMap vs. TreeMap**
+
+Falando na "nossa língua", temos o HashMap e o TreeMap, e os dois são como baús para guardar as nossas coisas em Java.
+
+**HashMap**: Imagine um baú mágico (bem a vibe baú do ender do Minecraft) que guarda suas coisas e você pode pegar suas coisas rapidinho, mas o baú não liga para a ordem que você as colocou.
+
+<img width="140" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/db/Ender_Chest_JE2_BE2.gif/revision/latest?cb=20230305011915" alt="Baú Ender">
+
+**TreeMap**: Agora, pense em um baú de duendes que guardam e organizam suas coisas. Eles mantém tudo organizado e em ordem, como se fosse uma lista de tarefas, mas leva um pouco mais de tempo para encontrar o que você precisa. (será que é porque os duendes gostam de pregar peças? kkkkk)
+
+Resumindo, é indicado usar o HashMap quando quiser encontrar suas coisas rapidinho, e o TreeMap quando quiser que suas coisas estejam sempre em ordem e organizadinhas.
+
+
+<img width="140" src="https://www.picgifs.com/graphics/g/gnomes/graphics-gnomes-621239.gif" alt="Duende">
+
