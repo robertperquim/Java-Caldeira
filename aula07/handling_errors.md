@@ -200,11 +200,11 @@ Para lidar com essas situações, usamos o tratamento de erros e exceções em J
            System.out.println("A porta se abre, revelando um novo caminho!");
        }
    }
-   ```
+     ```
    
     Quando o jogador tenta abrir a porta, precisamos tratar a exceção PortaTrancadaException para dar ao jogador uma dica sobre como proceder.
-      ```java
-   public static void main(String[] args) {
+  ```java
+  public static void main(String[] args) {
        try {
            // Tentativa de abrir a porta
            tentarAbrirPorta();
@@ -214,4 +214,4 @@ Para lidar com essas situações, usamos o tratamento de erros e exceções em J
            System.out.println("Mensagem de erro: " + e.getMessage());
        }
    }
-   ```
+  ```
