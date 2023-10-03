@@ -48,7 +48,7 @@ Este é o cronograma inicial que planejamos:
 | **28/09/2023** | 14h00 - 17h | Interface, Enum e Exceções e tratamento de erro |
 | **03/10/2023** | 14h00 - 17h | Maven / Gradle + testes unitários + Stream API|
 | **05/10/2023** | 14h00 - 17h | **Senac Experience** |
-| **10/10/2023** | 14h00 - 17h | Scrum + Trello + Projeto Revisão |
+| **10/10/2023** | 14h00 - 17h | Métodos Ágeis + Scrum + Trello + Projeto Revisão |
 | **12/10/2023** | 14h00 - 17h | **Feriado - Padroeira do Brasil** |
 | **17/10/2023** | 14h00 - 17h | Finalização e entrega do Projeto Revisão |
 | **19/10/2023** | 14h00 - 17h | Web Service + Estilos de arquitetura de APIs + inicio Spring |
