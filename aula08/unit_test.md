@@ -26,7 +26,7 @@ Antes de começar a escrever testes unitários, você precisará configurar o am
               <dependency>
                   <groupId>org.junit.jupiter</groupId>
                   <artifactId>junit-jupiter-engine</artifactId>
-                  <version>5.9.1</version> // Use a versão mais recente disponível
+                  <version>5.9.1</version>
                   <scope>test</scope>
               </dependency>
               [...]
@@ -43,7 +43,7 @@ Antes de começar a escrever testes unitários, você precisará configurar o am
   - Dentro da seção `<dependencies>`, adicione a seguinte dependência para o JUnit 5:
     
     ```java
-      testImplementation("org.junit.jupiter:junit-jupiter:5.8.0") // Use a versão mais recente disponível
+      testImplementation("org.junit.jupiter:junit-jupiter:5.8.0")
     ```
   
   - Salve o arquivo  `build.gradle`.
