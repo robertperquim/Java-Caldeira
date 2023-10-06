@@ -110,7 +110,7 @@ Para rodar o teste, precisamos usar a anotação `@Test`. Isso diz ao executor d
 
 ## ⚠️⚠️ Atenção! ⚠️⚠️
 
-É importante salientar que as classes onde serão feitos os testes devem ser criadas no diretório ``` ./test/java ```. Também deve-se prestar atenção para que as classes de teste sigam um padrão de nomenclatura, veja o exemplo:
+É importante salientar que as classes onde serão feitos os testes devem ser criadas no diretório ``` ./src/test/java ```. Também deve-se prestar atenção para que as classes de teste sigam um padrão de nomenclatura, veja o exemplo:
 
 - "/Test*.java" - inclui todos os seus subdiretórios e todos os nomes de arquivos Java que começam com "Test"
 - "/*Test.java" - inclui todos os seus subdiretórios e todos os nomes de arquivos Java que terminam com "Test"
