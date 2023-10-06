@@ -108,6 +108,17 @@ A classe de teste pode ter qualquer nome, mas aqui chamamos de **CalculadoraTest
 
 Para rodar o teste, precisamos usar a anotação `@Test`. Isso diz ao executor de teste que este é um método de teste.
 
+## ⚠️⚠️ Atenção! ⚠️⚠️
+
+É importante salientar que as classes onde serão feitos os testes devem ser criadas no diretório ``` ./test/java ```. Também deve-se prestar atenção para que as classes de teste sigam um padrão de nomenclatura, veja o exemplo:
+
+- "/Test*.java" - inclui todos os seus subdiretórios e todos os nomes de arquivos Java que começam com "Test"
+- "/*Test.java" - inclui todos os seus subdiretórios e todos os nomes de arquivos Java que terminam com "Test"
+- "/*Tests.java" - inclui todos os seus subdiretórios e todos os nomes de arquivos Java que terminam com "Tests"
+- "/*TestCase.java" - inclui todos os seus subdiretórios e todos os nomes de arquivos Java que terminam com "TestCase"
+
+Portanto, se nossos testes não seguirem os padrões de caracteres curinga acima, o Maven não os executará. No entanto, existem casos em que podem existir padrões de nomenclatura específicos do projeto a serem seguidos em vez dessas convenções padrão. Nestes casos, podemos substituir o Plugin Surefire especificando explicitamente os testes que desejamos incluir (ou excluir) e outros padrões.
+
 ## Executando Testes Unitários ▶️
 
 Depois de escrever seus testes unitários, você pode executá-los usando sua IDE ou ferramenta de construção. Certifique-se de que sua classe de teste tenha um nome que termine com "Test" para que o JUnit a reconheça automaticamente como uma classe de teste. Também podemos executar o teste a partir da linha de comando usando uma ferramenta de construção como Maven ou Gradle.🖥️
