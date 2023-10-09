@@ -2,31 +2,68 @@
 
 Vamos aprender como organizar e versionar seus exercícios de forma eficiente usando Git e uma estrutura de pastas bem organizada. 😊
 
-## Estrutura de Pastas para Seus Exercícios em Java 📂
+## Exemplo de Estrutura de Pastas para Seus Exercícios em Java 📂
 
 Para começar, vamos organizar seus exercícios em uma estrutura de pastas como esta:
 
 ```
-├── aula01/
-│   ├── Exercicio01.java
-│   ├── Exercicio02.java
+├── src
+│   ├── aula01/
+│   │   ├── exercicio01
+│   │   │   ├── ClasseExemplo.java
+│   │   │   ├── PrincipalA01E01.java
+│   │   ├── exercicio02
+│   │   │   ├── PrincipalA01E02.java
+│   ├── aula02/
+│   │   ├── exercicio01
+│   │   │   ├── ClasseExemplo.java
+│   │   │   ├── PrincipalA02E01.java
+│   │   ├── exercicio02
+│   │   │   ├── PrincipalA02E02.java
 │   └── ...
-│   ├── Main.java
-│
-├── aula02/
-│   ├── Exercicio01.java
-│   ├── Exercicio02.java
-│   └── ...
-│   ├── Main.java
-│
-├── aula03/
-│   ├── Exercicio01.java
-│   ├── Exercicio02.java
-│   └── ...
-│   ├── Main.java
-│
+├── Main.java   
 └── ...
 ```
+
+## Como montar essa estrtutura:
+- Passo 1: Abra o IntelliJ IDEA e certifique-se de que o projeto java-caldeira está aberto no IntelliJ.
+- Passo 2.: Clique com o botão direito do mouse na pasta com nome do repositorio e selecione "New" (Novo) e, em seguida, "module" (Modulo). Isso criará um novo module dentro da pasta selecionada.
+- Passo 3: Dê um nome para a nova pasta. Por exemplo, se você deseja criar a pasta "src", insira o nome "src" e pressione Enter.
+- Passo 4: Clique com o botão direito do mouse na pasta src e selecione "New" (Novo) e, em seguida, "package" (Pacote). Isso criará um novo pacote dentro da pasta selecionada.
+- Passo 5: Dê um nome para a nova pasta. Por exemplo, se você deseja criar a pasta "src", insira o nome "src" e pressione Enter.
+- Passo 6: Repita os passos 4 e 5 para criar as pastas restantes (aula01, aula02, etc...) conforme a estrutura desejada.
+- Passo 7: Clique com o botão direito do mouse na pasta da aula (aula01, aula02, etc...) e selecione "New" (Novo) e, em seguida, "Java Class" (Classe Java). Isso criará uma nova classe dentro da pasta selecionada.
+- Passo 8: Você também pode criar o arquivo "Main.java" seguindo os mesmos passos, se ele não existir.
+
+Por exemplo, sua Classe PrincipalA02E02.java
+
+```java
+package aula01.exercicio02;
+
+public class PrincipalA02E01 {
+    public void run() {
+        System.out.println("hello Exercicio 02");
+    }
+}
+```
+
+E sua Classe principal iria executar o programa:
+
+```java
+   import aula01.exercicio01.PrincipalA01E01;
+   import aula01.exercicio02.PrincipalA02E01;
+   
+   public class Main {
+       public static void main(String[] args) {
+           var ex1 = new PrincipalA02E01();
+           ex1.run();
+           var ex2 = new PrincipalA01E01();
+           ex2.run();
+       }
+   }
+```
+🚨 Lembre-se de comentar os exercicios que você não quer executar.
+
 
 # Dicas para Usar o Git/GitHub Durante as Aulas
 
@@ -206,15 +243,12 @@ Lembre-se, amigo, a prática é a chave! Comece com projetos simples e vá avan�
 
 3. **W3Schools** - [W3Schools](https://www.w3schools.com)
    - W3Schools é um recurso popular para aprender tecnologias web, como HTML, CSS, JavaScript e muitos outros. Oferece tutoriais interativos e exemplos práticos.
-
-4. **GeeksforGeeks** - [GeeksforGeeks](https://www.geeksforgeeks.org)
-   - GeeksforGeeks é um site que oferece uma ampla variedade de tutoriais e recursos relacionados à ciência da computação e programação. É especialmente útil para preparação de entrevistas técnicas. 
   
 ### O que NÃO FAZER:
 
 - Metodologia Extreme Go Horses: https://gohorse.com.br/extreme-go-horse-xgh/
 
-
-
+4. **GeeksforGeeks** - [GeeksforGeeks](https://www.geeksforgeeks.org)
+   - GeeksforGeeks é um site que oferece uma ampla variedade de tutoriais e recursos relacionados à ciência da computação e programação. É especialmente útil para preparação de entrevistas técnicas.
 
 
