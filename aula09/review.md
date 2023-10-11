@@ -41,13 +41,13 @@ A Amarelinha forneceu ao seu time um arquivo em .CSV, que contém informações 
 
 - [Arquivo .CSV](DistanciasCidadesCSV.csv)
 
-Além disso, a Amarelinha já possui vários tipos de caminhões para transportar esses produtos, cada um com seu tamanho e custo por quilômetro rodado. Aqui estão os tipos de caminhões e seus custos por quilômetro:🗺️🚛
+Além disso, a Amarelinha já possui vários tipos de caminhões para transportar esses produtos, cada um com seu tamanho, custo por quilômetro rodado e capacidade. Aqui estão os tipos de caminhões e seus custos por quilômetro:🗺️🚛
 
-| Classificação | Preço por Km (R$/km) |
-|---------------|----------------------|
-| Pequeno       | 5,83                 |
-| Médio         | 13,42                |
-| Grande        | 29,21                |
+| Classificação | Preço por Km (R$/km) | Capacidade Máxima |
+|---------------|----------------------|-------------------|
+| Pequeno       | 5,83                 | 1 Tonelada        |
+| Médio         | 13,42                | 4 Toneladas       |
+| Grande        | 29,21                | 10 Toneladas      |
 
 Além disso, forneceram ao seu time, quais são os tipos de produtos que vocês precisam transportar nessa primeira versão do sistema, visto que, ela deseja aplicar o novo software aos poucos, para não impactar o legado que já está funcionando. Os produtos são esses: 📦🚚
 
