@@ -22,8 +22,8 @@ Pense em um arranjo como uma fileira de gavetas. Cada gaveta pode conter um item
    - É uma estrutura de tamanho fixo, o que significa que você precisa especificar o tamanho do array quando o cria e não pode alterá-lo posteriormente.
    - Cada item em um array é chamado de elemento, e cada elemento é acessado por um índice inteiro.
    - São eficientes para acesso direto aos elementos, mas seu tamanho não pode ser alterado dinamicamente.
-
-<img width="587" alt="arrayfig1" src="https://github.com/SkiereszDiego/Java-Caldeira-Privado/assets/46655332/9476ab5e-881f-408f-9bf7-cebd52531143">
+ 
+<img width="587" alt="arrayfig1" src="https://github.com/SkiereszDiego/Java-Caldeira/assets/9812015/016e3f29-74f3-4288-9bc0-3695c0121c62">
 
 - **Quando Usar:** 
    - Use arrays quando souber o tamanho exato da coleção antecipadamente.
