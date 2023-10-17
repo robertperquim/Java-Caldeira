@@ -17,6 +17,8 @@ Os bancos de dados relacionais normalmente usam tabelas com dados organizados em
 
 Segue abaixo um exemplo simples de banco relacional com duas tabelas tendo como chave de relação a coluna “activity code”:
 
+<img src="https://github.com/SkiereszDiego/Java-Caldeira/blob/main/aula12/bd_relacional.png?raw=true">
+
 
 ## Conclusões
 
