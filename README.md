@@ -47,15 +47,15 @@ Este é o cronograma inicial que planejamos:
 | **26/09/2023** | 14h00 - 17h | Estrutura de dados P2 |
 | **28/09/2023** | 14h00 - 17h | Interface, Enum e Exceções e tratamento de erro |
 | **03/10/2023** | 14h00 - 17h | Maven / Gradle + testes unitários + Stream API|
-| **05/10/2023** | 14h00 - 17h | **Senac Experience** |
+| **05/10/2023** | 14h00 - 17h | Senac Experience |
 | **10/10/2023** | 14h00 - 17h | Métodos Ágeis + Scrum + Trello + Projeto Revisão |
 | **12/10/2023** | 14h00 - 17h | **Feriado - Padroeira do Brasil** |
 | **17/10/2023** | 14h00 - 17h | Finalização e entrega do Projeto Revisão |
-| **19/10/2023** | 14h00 - 17h | Web Service + Estilos de arquitetura de APIs + inicio Spring |
-| **24/10/2023** | 14h00 - 17h | Spring initilazer + Spring boot + CRUD REST |
-| **26/10/2023** | 14h00 - 17h | Banco Relacional + instalar banco POSTEGRES + SQL |
-| **01/11/2023** | 14h00 - 17h | SQL (Create, insert, update e delete) + PK/FK + Relação entre tabelas |
-| **03/11/2023** | 14h00 - 17h | Conectar a API ao Banco (com spring) e ajustes na API |
+| **19/10/2023** | 14h00 - 17h | Continuação e entrega do Projeto Revisão |
+| **24/10/2023** | 14h00 - 17h | Web Service + Estilos de arquitetura de APIs + inicio Spring |
+| **26/10/2023** | 14h00 - 17h | Spring initilazer + Spring boot + CRUD REST |
+| **31/10/2023** | 14h00 - 17h | Banco Relacional + instalar banco POSTEGRES + SQL + PK/FK + Relação entre tabelas|
+| **02/11/2023** | 14h00 - 17h | Conectar a API ao Banco (com spring) e ajustes na API |
 | **07/11/2023** | 14h00 - 17h | Relacões entre entidades |
 | **09/11/2023** | 14h00 - 17h | Tipos de arquitetura |
 | **14/11/2023** | 14h00 - 17h | Projeto API Rest |
