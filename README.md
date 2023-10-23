@@ -56,8 +56,8 @@ Este é o cronograma inicial que planejamos:
 | **26/10/2023** | 14h00 - 17h | Spring initilazer + Spring boot + CRUD REST |
 | **31/10/2023** | 14h00 - 17h | Banco Relacional + instalar banco POSTEGRES + SQL + PK/FK + Relação entre tabelas|
 | **02/11/2023** | 14h00 - 17h | Conectar a API ao Banco (com spring) e ajustes na API |
-| **07/11/2023** | 14h00 - 17h | Relacões entre entidades |
-| **09/11/2023** | 14h00 - 17h | Tipos de arquitetura |
+| **07/11/2023** | 14h00 - 17h | Tipos de arquitetura (Monolítica e Microserviços) |
+| **09/11/2023** | 14h00 - 17h | Dojo |
 | **14/11/2023** | 14h00 - 17h | Projeto API Rest |
 | **16/11/2023** | 14h00 - 17h | Projeto API Rest |
 | **21/11/2023** | 14h00 - 17h | Projeto API Rest |
