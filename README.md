@@ -54,17 +54,17 @@ Este é o cronograma inicial que planejamos:
 | **19/10/2023** | 14h00 - 17h | Continuação e entrega do Projeto Revisão |
 | **24/10/2023** | 14h00 - 17h | Web Service + Estilos de arquitetura de APIs + inicio Spring |
 | **26/10/2023** | 14h00 - 17h | Spring initilazer + Spring boot + CRUD REST |
-| **31/10/2023** | 14h00 - 17h | Banco Relacional + instalar banco POSTEGRES + SQL + PK/FK + Relação entre tabelas|
-| **02/11/2023** | 14h00 - 17h | Conectar a API ao Banco (com spring) e ajustes na API |
-| **07/11/2023** | 14h00 - 17h | Tipos de arquitetura (Monolítica e Microserviços) |
-| **09/11/2023** | 14h00 - 17h | Dojo |
-| **14/11/2023** | 14h00 - 17h | Projeto API Rest |
-| **16/11/2023** | 14h00 - 17h | Projeto API Rest |
+| **31/10/2023** | 14h00 - 17h | Parte 01 - Banco Relacional + instalar banco POSTEGRES + SQL + PK/FK + Relação entre tabelas|
+| **02/11/2023** | 14h00 - 17h | **Feriado - Finados** |
+| **07/11/2023** | 14h00 - 17h | Parte 02 - Hands On - Banco Relacional + instalar banco POSTEGRES + SQL + PK/FK + Relação entre tabelas |
+| **09/11/2023** | 14h00 - 17h | Conectar a API ao Banco (com spring) e ajustes na API |
+| **14/11/2023** | 14h00 - 17h | TBD |
+| **16/11/2023** | 14h00 - 17h | Tipos de arquitetura (Monolítica e Microserviços) + Dojo |
 | **21/11/2023** | 14h00 - 17h | Projeto API Rest |
 | **23/11/2023** | 14h00 - 17h | Projeto API Rest |
-| **28/11/2023** | 14h00 - 17h | Pitch |
+| **28/11/2023** | 14h00 - 17h | Projeto API Rest |
 | **30/11/2023** | 14h00 - 17h | Pitch |
-| **05/12/2023** | 14h00 - 17h | Palestra encerramento - convidado TBD |
+| **05/12/2023** | 14h00 - 17h | Pitch |
 | **07/12/2023** | 14h00 - 17h | Alinhamento final do curso x expectativas para o mercado |
 | **12/12/2023** | 14h00 - 17h | Formatura |
 
