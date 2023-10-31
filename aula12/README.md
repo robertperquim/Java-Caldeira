@@ -19,6 +19,3 @@ Banco de Dados Relacional, SQL, PostGres ? 🤯 e mais.... PK/FK ? 🤯  e tem m
 
 
 :point_right: Lembre-se: se tiver dúvidas no entendimento ou na resolução dos exercícios, peça ajuda e participe nas [issues](https://github.com/SkiereszDiego/Java-Caldeira/issues).
-
-Bora encarar umas perguntas? [Exercicios](sql_exercices_12.md). E olha só: tem solução pra cada uma. O esquema é o seguinte: Tenta resolver sem olhar as respostas. Se travar, dá uma olhada pras dicas.
-Manda bala e arrasa nas perguntas! 💪🚀
