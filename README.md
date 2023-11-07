@@ -57,14 +57,14 @@ Este é o cronograma inicial que planejamos:
 | **31/10/2023** | 14h00 - 17h | Parte 01 - Banco Relacional + instalar banco POSTEGRES + SQL + PK/FK + Relação entre tabelas|
 | **02/11/2023** | 14h00 - 17h | **Feriado - Finados** |
 | **07/11/2023** | 14h00 - 17h | Parte 02 - Hands On - Banco Relacional + instalar banco POSTEGRES + SQL + PK/FK + Relação entre tabelas |
-| **09/11/2023** | 14h00 - 17h | Conectar a API ao Banco (com spring) e ajustes na API |
-| **14/11/2023** | 14h00 - 17h | TBD |
-| **16/11/2023** | 14h00 - 17h | Tipos de arquitetura (Monolítica e Microserviços) + Dojo |
-| **21/11/2023** | 14h00 - 17h | Projeto API Rest |
-| **23/11/2023** | 14h00 - 17h | Projeto API Rest |
-| **28/11/2023** | 14h00 - 17h | Projeto API Rest |
-| **30/11/2023** | 14h00 - 17h | Pitch |
-| **05/12/2023** | 14h00 - 17h | Pitch |
+| **09/11/2023** | 14h00 - 17h | Tipos de arquitetura (Monolítica e Microserviços) + Conectar a API ao Banco (com spring)  |
+| **14/11/2023** | 14h00 - 17h | Dojo |
+| **16/11/2023** | 14h00 - 17h | Java revenge |
+| **21/11/2023** | 14h00 - 17h | Projeto API Rest - Planning |
+| **23/11/2023** | 14h00 - 17h | Projeto API Rest - Sprint 1 |
+| **28/11/2023** | 14h00 - 17h | Projeto API Rest - Sprint 2 |
+| **30/11/2023** | 14h00 - 17h | Entrega e Apresentação do projeto - Review |
+| **05/12/2023** | 14h00 - 17h | Apresentação do projeto |
 | **07/12/2023** | 14h00 - 17h | Alinhamento final do curso x expectativas para o mercado |
 | **12/12/2023** | 14h00 - 17h | Formatura |
 
