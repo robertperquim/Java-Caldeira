@@ -128,31 +128,31 @@ public class Livro {
 ```
 Aqui, definimos a estrutura de um livro, como o título, autor, e ISBN.
 
-Classe do Web Service (LivroService.java):
+Classe do Web Service (LivroController.java):
 
 ```java
-import javax.ws.rs.*;
-import javax.ws.rs.core.MediaType;
-import com.fasterxml.jackson.databind.ObjectMapper;
+import jakarta.websocket.server.PathParam;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 
-@Path("/livros")
-public class LivroService {
+import java.util.HashMap;
+import java.util.Map;
+
+@Controller("/livros")
+public class LivroController {
     private static Map<String, Livro> livros = new HashMap<>();
 
-    @GET
-    @Path("/info/{isbn}")
-    @Produces(MediaType.APPLICATION_JSON)
+    @RequestMapping(value = "/info/{isbn}", method = RequestMethod.GET, produces = "application/json")
     public Livro getLivroInfo(@PathParam("isbn") String isbn) {
         Livro livro = livros.get(isbn);
         return livro;
     }
 
-    @POST
-    @Path("/adicionar")
-    @Consumes(MediaType.APPLICATION_JSON)
-    public Response adicionarLivro(Livro livro) {
+    @RequestMapping(value = "/adicionar", method = RequestMethod.POST, consumes = "application/json")
+    public String adicionarLivro(Livro livro) {
         livros.put(livro.getIsbn(), livro);
-        return Response.status(201).entity("Livro adicionado com sucesso!").build();
+        return "Livro adicionado com sucesso!";
     }
 }
 
